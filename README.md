@@ -6,7 +6,7 @@ Tool to create beautiful and realistic layered shadows.
 <details>
     <summary>Screenshot</summary>
 
-![Image Preview](https://pavelgolyshev.dev/img/shadowwws.webp)
+![Image Preview](https://pavelgolyshev.dev/images/shadowwws.png)
 
 </details>
 
